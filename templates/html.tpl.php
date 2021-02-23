@@ -61,7 +61,8 @@
   <?php print $head; ?>
   <title><?php print $head_title; ?></title>
   <link rel="preconnect" href="https://fonts.gstatic.com"> 
-  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&display=swap" rel="stylesheet">
+  <link rel="preconnect" href="https://fonts.gstatic.com"> 
+  <link href="https://fonts.googleapis.com/css2?family=Montserrat&family=Playfair+Display:ital,wght@0,700;1,400&display=swap" rel="stylesheet">
   <?php print $styles; ?>
   <!-- HTML5 element support for IE6-8 -->
   <!--[if lt IE 9]>
